@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="nl">
+
+
+
+<head>
+    <link rel="stylesheet" type="teks/css" href="tim-website-dingen.css">
+    <title>Tim's website</title>
+</head>
+
+<body>
+<h1>Welkom bij mijn portfolio website!</h1>
+
+<img class="rotatified" src="../../../PhpstormProjects/untitled/foto-Tim-1.jpg" height="250" width="330"/>
+<img src="../../../PhpstormProjects/untitled/foto-Tim-1.jpg" height="250" width="330"/>
+<p>Hoe zorg je dat je gemotiveerd blijft? : ik hou mijzelf gemotiveerd door te denken aan de toekomst. Plus hier in de klas zijn er overal aardige mensen die wel zorgen dat je gemotiveerd blijft.</p>
+<p>
+    Wat ben je bereid om na de lessen nog te doen aan de opleiding? Huiswerk. Dingen opzoeken die ik niet weet. Om hulp vragen bij andere mensen.
+
+    Waarin wil jij jezelf nog ontwikkelen? Ik wil mijzelf nog ontwikkelen in dingen zoals websites bouwen bijvoorbeeld een goede website bouwen, fouten zelf zien en ze kunnen oplossen.
+    Genoeg weten om professioneel aan de slag te kunnen en andere te helpen met programmeren als zij er niet uitkomen.</p>
+
+
+
+
+
+
+    <div class="menu">
+        <a href="scratch_13.html"> mijn werkervaringen</a>
+        <a href="scratch_5.html"> mijn opleidingen</a>
+    </div>
+</body>
+</html>
+
+
